@@ -1,0 +1,5 @@
+package com.data2o.learningstorm.storm_example;
+
+public class LearningStormSpout extends BasicRichSpout {
+
+}

@@ -1,0 +1,10 @@
+package com.data2o.learningstorm.storm_example;
+
+import backtype.storm.topology.BasicOutputCollector;
+import backtype.storm.topology.OutputFieldsDeclarer;
+import backtype.storm.topology.base.BaseBasicBolt;
+import backtype.storm.tuple.Tuple;
+
+public class LearningStormBolt extends BaseBasicBolt {
+
+}

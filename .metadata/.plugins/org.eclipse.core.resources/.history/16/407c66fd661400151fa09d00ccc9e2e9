@@ -1,0 +1,15 @@
+package com.data2o.learningstorm.storm_example;
+
+import backtype.storm.Config;
+import backtype.storm.StormSubmitter;
+import backtype.storm.generated.AlreadyAliveException;
+import backtype.storm.generated.InvalidTopologyException;
+import backtype.storm.topology.TopologyBuilder;
+
+public class LearningStormSingleNodeTopology 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.data2o.learningstorm.storm_example.App&apos; to &apos;LearningStormSingleNodeTopology&apos;&#x0A;- Original project: &apos;storm-example&apos;&#x0A;- Original element: &apos;com.data2o.learningstorm.storm_example.App&apos;&#x0A;- Renamed element: &apos;com.data2o.learningstorm.storm_example.LearningStormSingleNodeTopology&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;App&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.data2o.learningstorm.storm_example{App.java[App" matchStrategy="1" name="LearningStormSingleNodeTopology" qualified="false" references="true" similarDeclarations="false" stamp="1434486459427" textual="false" version="1.0"/>
+</session>
